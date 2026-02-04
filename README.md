@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## 배포 방법
 
-npm run build로 빌드 후 dist 폴더를 github pages에서 지정.
+npm run build로 빌드 후 docs 폴더를 github pages에서 지정.
